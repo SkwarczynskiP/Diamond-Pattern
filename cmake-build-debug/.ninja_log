@@ -1,21 +1,2 @@
 # ninja log v5
-1	531	7280086277502606	CMakeFiles/Project1.dir/main.cpp.obj	1da360f55a00fd12
-532	751	7280086279659043	Project1.exe	c22d9cf6fb5dfcf4
-3	346	7280087231053886	CMakeFiles/Project1.dir/main.cpp.obj	1da360f55a00fd12
-346	409	7280087231657157	Project1.exe	c22d9cf6fb5dfcf4
-3	328	7280087360446809	CMakeFiles/Project1.dir/main.cpp.obj	1da360f55a00fd12
-328	393	7280087361079791	Project1.exe	c22d9cf6fb5dfcf4
-4	336	7280087606148261	CMakeFiles/Project1.dir/main.cpp.obj	1da360f55a00fd12
-337	398	7280087606741712	Project1.exe	c22d9cf6fb5dfcf4
-2	343	7280088014241122	CMakeFiles/Project1.dir/main.cpp.obj	1da360f55a00fd12
-344	403	7280088014825394	Project1.exe	c22d9cf6fb5dfcf4
-2	343	7280088455362927	CMakeFiles/Project1.dir/main.cpp.obj	1da360f55a00fd12
-344	405	7280088455960282	Project1.exe	c22d9cf6fb5dfcf4
-5	370	7280088728384622	CMakeFiles/Project1.dir/main.cpp.obj	1da360f55a00fd12
-371	432	7280088728979385	Project1.exe	c22d9cf6fb5dfcf4
-4	355	7280088920143350	CMakeFiles/Project1.dir/main.cpp.obj	1da360f55a00fd12
-355	420	7280088920762490	Project1.exe	c22d9cf6fb5dfcf4
-3	324	7280091535124075	CMakeFiles/Project1.dir/main.cpp.obj	1da360f55a00fd12
-325	388	7280091535738689	Project1.exe	c22d9cf6fb5dfcf4
-5	362	7280091820243753	CMakeFiles/Project1.dir/main.cpp.obj	1da360f55a00fd12
 362	427	7280091820864586	Project1.exe	c22d9cf6fb5dfcf4

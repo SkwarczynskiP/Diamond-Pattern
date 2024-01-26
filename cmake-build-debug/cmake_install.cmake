@@ -1,4 +1,4 @@
-# Install script for directory: C:/MY STUFF/OU Winter 2024/CSI 2320/Project1
+# Install script for directory: C:/MY STUFF/OU Winter 2024/CSI 2320/Project1/Diamond-Pattern
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/MY STUFF/OU Winter 2024/CSI 2320/Project1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/MY STUFF/OU Winter 2024/CSI 2320/Project1/Diamond-Pattern/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
