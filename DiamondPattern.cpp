@@ -5,7 +5,7 @@ int main() {
     int n, i, count;
 
     do {
-        cout << "Please enter an integer value for n, where n > 0:";
+        cout << "Please enter a positive integer value for n:";
         cin >> n;
         if (n <= 0) {
             cout << "Invalid value for n" << endl;
